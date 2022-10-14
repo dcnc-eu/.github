@@ -1,6 +1,6 @@
 # DCNC
 
-Die **D**eutschsprachige **C**loud **N**ative **C**ommunity.
+Die **D**eutschsprachige **C**loud **N**ative(s) **C**ommunity.
 
 ## CloudLand
 
