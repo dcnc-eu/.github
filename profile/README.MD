@@ -6,7 +6,9 @@ Die **D**eutschsprachige **C**loud **N**ative(s) **C**ommunity.
 
 [cloudland.org](https://www.cloudland.org/), das Cloud Native Festival.
 
-## Roundtable
+[Hier](https://github.com/dcnc-eu/cloudcamp-2023) gehts zur Themensammlung für das CloudCamp 2023.
+
+## [Roundtable](https://github.com/dcnc-eu/roundtable)
 
 Austausch von Cloud (Technologie) nutzenden Firmen.
 
